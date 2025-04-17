@@ -9,7 +9,7 @@ Certainly! Here's a more detailed version for your GitHub profile:
 - 💞️ I’m enthusiastic about collaborating on projects that align with my interests. Whether it's contributing to innovative machine learning applications, crafting engaging front-end experiences, or leveraging data for meaningful insights, I'm open to exciting tech initiatives.
 
 - 📫 How to reach me: 
-  - Email: yendavasudha@gmail.com
+  - Email: vasudhayenda@gmail.com
   - LinkedIn: [Vasudha Yenda](https://www.linkedin.com/in/vasudha-yenda-978727192)
 
 Feel free to connect and explore possibilities together!😊
